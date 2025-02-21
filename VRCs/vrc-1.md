@@ -63,3 +63,4 @@ VRC Editors are Vana Core Contributors who can accept and reject VRC proposals. 
 - @dumedco  
 - @letonchanh
 - @cactapode
+- @0xconfused-vana
